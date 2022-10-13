@@ -1,5 +1,7 @@
 # React Props Lab
 
+## Use State and Lifting State to Update the Forms so that this app can now take donations and update the total raised.
+
 Pass props through multiple components to build a mockup of a "FundMe"-type website.
 
 ![Image of completed application.](./assets/mockup.png)
